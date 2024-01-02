@@ -1,0 +1,29 @@
+References:
+
+https://www.khanacademy.org/computing/computer-science/algorithms/merge-sort/a/divide-and-conquer-algorithms#:~:text=Divide%20the%20problem%20into%20a,solution%20for%20the%20original%20problem.
+
+https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20the%20Design%20and%20Analysis%20of%20Algorithms%20%283rd%20ed.%29%20%5BLevitin%202011-10-09%5D.pdf
+
+https://youtu.be/ohHWQf1HDfU?si=KqKYKQf9IsQwAVkm
+
+https://en.wikipedia.org/wiki/Maximum_subarray_problem
+
+https://youtu.be/1K9ebQJosvo?si=x1AQ7-DbomA9S95t
+
+https://www.geeksforgeeks.org/maximum-subarray-sum-using-divide-and-conquer-algorithm/
+
+
+Tools: 
+Microsoft Clipchamp
+Microsoft PowerPoint
+Snipping tool
+
+
+Youtube link:
+https://youtu.be/sKfG9eDPzzE
+
+
+
+
+
+
